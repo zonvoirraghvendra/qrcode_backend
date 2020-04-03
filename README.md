@@ -17,7 +17,7 @@ This repository was made in conjuction with [this tutorial](https://medium.com/@
 Clone the repository to your computer and move into the root directory.
 
 ```sh
-git clone https://github.com/sshivsin/qrcode.git && cd qrcode
+git clone https://github.com/zonvoirraghvendra/qrcode_backend && cd qrcode
 ```
 
 Install the dependencies.
@@ -86,4 +86,4 @@ mutation UpdateUserWithWorkspace {
 
 ## Authors
 
-- [Shiv Kumar](https://github.com/sshivsin)
+- [Raghvendra](https://github.com/zonvoirraghvendra)
